@@ -1,0 +1,68 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #5b8899;
+  background: black;
+}
+
+header h1 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 50px;
+}
+
+.weather h1 {
+  text-align: center;
+  font-weight: 300;
+}
+
+.farenheit {
+
+  background: inherit;
+  color: #5b8899;
+  border: 1px solid #5b8899;
+  padding: 5px 10px 5px;
+  width: 30px;
+  text-align: center;
+}
+
+i {
+  color: white;
+}
+
+.celsius {
+    background: inherit;
+  color: #5b8899;
+  border: 1px solid #5b8899;
+  padding: 5px 10px 5px;
+  width: 30px;
+  text-align: center;
+}
+
+.weather h2 {
+  text-align: center;
+  font-weight: 300;
+}
+
+.temp {
+  color: white;
+}
+
+.currentWeather {
+  color: white;
+}
+
+.weather {
+  text-align: center;
+  border-radius: 20px;
+  border: 3px solid #5b8899;
+  width: 250px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+
+}
+
+
+.weatherIcon {
+  text-align: center;
+
+}
